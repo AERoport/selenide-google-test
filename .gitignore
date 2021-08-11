@@ -1,0 +1,5 @@
+# Default ignored files
+/google-test.iws
+
+# Project exclude paths
+/target/
